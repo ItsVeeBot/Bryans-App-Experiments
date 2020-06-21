@@ -1,0 +1,22 @@
+<resources>
+    <string name="label_8ball_1">As I see it, yes.</string>
+    <string name="label_8ball_2">Ask again later.</string>
+    <string name="label_8ball_3">Better not tell you now.</string>
+    <string name="label_8ball_4">Cannot predict now.</string>
+    <string name="label_8ball_5">Concentrate and ask again.</string>
+    <string name="label_8ball_6">Don’t count on it.</string>
+    <string name="label_8ball_7">It is certain.</string>
+    <string name="label_8ball_8">It is decidedly so.</string>
+    <string name="label_8ball_9">Most likely.</string>
+    <string name="label_8ball_10">My reply is no.</string>
+    <string name="label_8ball_11">My sources say no.</string>
+    <string name="label_8ball_12">Outlook not so good.</string>
+    <string name="label_8ball_13">Outlook good.</string>
+    <string name="label_8ball_14">Reply hazy, try again.</string>
+    <string name="label_8ball_15">Signs point to yes.</string>
+    <string name="label_8ball_16">Very doubtful.</string>
+    <string name="label_8ball_17">Without a doubt.</string>
+    <string name="label_8ball_18">Yes.</string>
+    <string name="label_8ball_19">Yes - definitely.</string>
+    <string name="label_8ball_20">You may rely on it.</string>
+</resources>
